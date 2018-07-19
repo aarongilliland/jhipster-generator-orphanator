@@ -59,7 +59,9 @@ npm update -g generator-jhipster-orphanator
 
  ```
 
- ### Update Entity# License
+ ### Update Entity
+ 
+ # License
 
 MIT © [Aaron Gilliland](https://github.com/aarongilliland)
 
