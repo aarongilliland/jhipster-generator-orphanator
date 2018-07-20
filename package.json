@@ -4,7 +4,7 @@
   "description": "Kills Orphan Entities, Classes,...",
   "keywords": [
     "yeoman-generator",
-    "jhipster-module", 
+    "jhipster-module",
     "jhipster-5"
   ],
   "homepage": "https://github.com/aarongilliland/generator-jhipster-orphanator",
